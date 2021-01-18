@@ -12,3 +12,4 @@ Inside Plex you will have to modify your smart playlist with the filter: `Track 
 ## How to run
 Simply execute the python file `main.py` and follow the instructions to enter your credentials and server name as well as playlist name, and watch the magic.
 To see a list of found songs as unique and duplicate add the flag `--debug` when executing the script.
+After executing the script you have to update the filters of the playlist for Plex to register the changes.
